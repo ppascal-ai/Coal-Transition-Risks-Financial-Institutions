@@ -40,6 +40,13 @@ Modular Python toolkit for assessing coal transition risks for financial institu
 - pip packages: `pandas`, `scikit-learn`, `matplotlib`, `xlsxwriter`, `streamlit`, `plotly`, `pycountry`
 
 ## How to Run
+
+Create virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
 Install dependencies:
 ```bash
 pip install pandas scikit-learn matplotlib xlsxwriter streamlit plotly pycountry
