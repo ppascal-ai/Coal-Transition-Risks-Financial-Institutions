@@ -1,0 +1,43 @@
+﻿"Global Coal Plant Tracker, Global Energy Monitor 
+October 2025 Supplement (Proposals outside of China)";;;;;;;;;;;;;;;;;;;;;;;;;
+Copyright © Global Energy Monitor. Global Coal Plant Tracker, October 2025 Supplement release. Distributed under a Creative Commons Attribution 4.0 International License. ;;;;;;;;;;;;;;;;;;;;;;;;;
+"Recommended Citation: ""Global Energy Monitor, Global Coal Plant Tracker, October 2025 Supplement release.""  (See the CC license for attribution requirements if sharing or adapting the data set.)";;;;;;;;;;;;;;;;;;;;;;;;;
+Contact: Christine Shearer, Project Manager, Global Energy Monitor - christine.shearer@globalenergymonitor.org;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+What this release includes;;;;;;;;;;;;;;;;;;;;;;;;;
+"The October 2025 Supplement to the Global Coal Plant Tracker (GCPT) provides a quarterly update on all coal-fired power station proposals in the global ""pipeline"" outside of China. This includes all proposed power stations outside China that were not under construction as of July 2025. Column A notes whether the unit was reviewed in October 2025. Any unit marked July 2025 was not reviewed, meaning the data is the same as the July 2025 GCPT release.
+
+More detailed Summary Tables, including summaries of the Q3 status changes, are available on the Global Energy Monitor website: https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/";;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+About the GCPT;;;;;;;;;;;;;;;;;;;;;;;;;
+"The Global Coal Plant Tracker includes global coal-fired units that are 30 megawatts (MW) or larger within the following parameters: all operating/mothballed units; all units retired since 2000; and all units proposed since 2010.";;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Notes;;;;;;;;;;;;;;;;;;;;;;;;;
+1. Column A notes whether the unit was reviewed in October 2025. Any unit marked July 2025 was not reviewed, meaning the data is the same as the July 2025 GCPT release.;;;;;;;;;;;;;;;;;;;;;;;;;
+2. For the GCPT Methodology, see https://globalenergymonitor.org/projects/global-coal-plant-tracker/methodology/;;;;;;;;;;;;;;;;;;;;;;;;;
+"3. For CO2 calculation method, see ""Estimating carbon dioxide emissions from coal plants"" at https://www.gem.wiki/Estimating_carbon_dioxide_emissions_from_coal_plants";;;;;;;;;;;;;;;;;;;;;;;;;
+"4. For summary statistics by province, country, region, etc., see ""Summary Data"" at https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/";;;;;;;;;;;;;;;;;;;;;;;;;
+"5. For links to GEM reports using GCPT data, see ""Reports & Briefings"" at https://globalenergymonitor.org/projects/global-coal-plant-tracker/reports-briefings/";;;;;;;;;;;;;;;;;;;;;;;;;
+6. This database only includes coal-fired generating units 30 MW and larger.;;;;;;;;;;;;;;;;;;;;;;;;;
+7. For more information on coal plant ownership see the Global Energy Ownership Tracker (GEOT): https://globalenergymonitor.org/projects/global-energy-ownership-tracker/. The GEOT maps each level of the ownership chain from the direct owner (the lowest-level identified owner in the chain of ownership) to their highest-level ultimate parents (e.g., corporations, investment firms, and governments). Ownership links are reported with the percentage of ownership, including owners that have controlling interest as well as those with minority, non-controlling interests (if over a threshold of 5% ownership). Companies IDs, such as PermIDs, are also included.;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Status definitions;;;;;;;;;;;;;;;;;;;;;;;;;
+Announced;"Projects that have appeared in corporate or governmental planning documents but have not yet moved actively forward by applying for permits or seeking land, coal, or financing.				";;;;;;;;;;;;;;;;;;;;;;;;
+Pre-permit;"Projects that have actively moved forward in one or more of the following ways: applying for environmental permits, acquiring land, acquiring coal, acquiring water rights, acquiring transmission arrangements, or securing financing. In India the key criterion for moving a project from ""announced"" to ""pre-permit"" is the existence of a ""terms of reference"" (TOR) letter by the Ministry of Environment, Forests, and Climate Change. In China, ""pre-permit"" means a feasibility study has been completed.";;;;;;;;;;;;;;;;;;;;;;;;
+Permitted;"Projects that have secured all environmental permits but have not broken ground. In India the key criterion for moving a project from ""pre-permit"" to ""permitted"" is the approval of an ""environmental clearance"" (EC) by the Ministry of Environment, Forests, and Climate Change. In China, ""permitted"" means a plant has received a permit from the National Development and Reform Commission (NDRC), allowing for construction, or the equivalent approval at the province level.";;;;;;;;;;;;;;;;;;;;;;;;
+Construction;Projects where physical construction (i.e. concrete and steel, not just a ground-breaking ceremony or early site preparation) has begun.;;;;;;;;;;;;;;;;;;;;;;;;
+Shelved;"Projects where sufficient evidence is found to indicate that a project is no longer moving forward, but not enough to declare it definitively cancelled. Projects where construction has been put on hold are also considered ""shelved."" A project that shows no activity over a period of 2 years is categorized as ""shelved"" unless there is evidence to the contrary.";;;;;;;;;;;;;;;;;;;;;;;;
+Cancelled;"In some cases a sponsor announces that it has cancelled a project. More often a project fails to advance and then quietly disappears from related documents. In addition, a plant that shows no activity or with no known developments over a period of 4 years is categorized as ""cancelled"" (or two years since being marked ""shelved""), unless there is evidence to the contrary. Proposed projects that are switched to natural gas are considered ""cancelled"" as coal plants.";;;;;;;;;;;;;;;;;;;;;;;;
+Operating;Units that have been formally commissioned or that have entered commercial operation.;;;;;;;;;;;;;;;;;;;;;;;;
+Mothballed;Units that have been deactivated or put into an inactive state but are not retired.;;;;;;;;;;;;;;;;;;;;;;;;
+Retired;Units that have been permanently decommissioned or converted to another fuel.;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+CO2 Annual and Lifetime Estimates;;;;;;;;;;;;;;;;;;;;;;;;;
+Metholology;"For CO2 calculation method, see ""Estimating carbon dioxide emissions from coal plants"" at https://www.gem.wiki/Estimating_carbon_dioxide_emissions_from_coal_plants";;;;;;;;;;;;;;;;;;;;;;;;
+Note;"The GCPT estimates for CO2 emissions are intended to provide guidance on overall country and regional emissions over the lifecycle of the existing and proposed fleet of plants. They are not intended to provide detailed impact analysis for particular plants. For this reason, the average global capacity factor is used for all plants. In general, newer plants will tend to have higher capacity factors than the average, and older plants will have lower capacity factors than the average. Similarly, heat rates and emission factors represent broad performance; these factors will differ for particular plants and coal supplies.";;;;;;;;;;;;;;;;;;;;;;;;
+Lifetime;Lifetime emissions assume a plant lifetime of 35 years, based on the global average retirement age of 37 years. Plants older than 35 years are assumed to operate an additional 5 years. Plants with a planned retirement date are assumed to cease operations that year.;;;;;;;;;;;;;;;;;;;;;;;;
+Heat rate;Heat rate is based on type of combustion technology, with performance penalties for older and smaller units. More discussion at https://www.gem.wiki/Estimating_carbon_dioxide_emissions_from_coal_plants;;;;;;;;;;;;;;;;;;;;;;;;
+Emission factor;Based on type of coal using the 2006 IPPC Guidelines for National Greenhouse Inventories, Table 2.2, page 2.16.;;;;;;;;;;;;;;;;;;;;;;;;
+Capacity factor;55% global average, based on GEM's global operating coal power capacity and Ember's global coal power generation data (2024).;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
